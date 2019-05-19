@@ -1,0 +1,8 @@
+name: Exit_Main
+version: 1.0-SNAPSHOT
+main: Exit_Main
+authors: [Zorioux]
+description: /exit in certain world
+website: Mythicmc.info/forums
+commands:
+  exit:
